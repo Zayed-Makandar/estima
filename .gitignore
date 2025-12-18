@@ -1,0 +1,53 @@
+.venv/
+.env
+.env.*
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+build/
+dist/
+*.egg-info/
+.node_modules/
+node_modules/
+npm-debug.log
+yarn-error.log
+coverage/
+htmlcov/
+.pytest_cache/
+.mypy_cache/
+.DS_Store
+.idea/
+.vscode/
+*.sqlite3
+*.db
+__pycache__/
+*.log
+infra/
+
+# Playwright browsers
+.playwright/
+
+# macOS
+*.DS_Store
+
+# env
+.env
+
+# Local virtualenv
+.venv
+venv/
+
+# typecheck
+.mypy_cache/
+
+# frontend
+dist/
+
+# npm
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
